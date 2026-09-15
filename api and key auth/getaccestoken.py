@@ -1,4 +1,5 @@
 #Get Access Token (GET)
+#api get response
 import requests
 
 url = "https://sandboxapi.moneygram.com/oauth/accesstoken?grant_type=client_credentials"
